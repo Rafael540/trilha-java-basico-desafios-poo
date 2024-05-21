@@ -10,7 +10,7 @@ classDiagram
       +selecionarMusica(Stringmusica)
     }
     class AparelhoTelefonico{
-      -ligar(String numero)
+      +ligar(String numero)
       +atender()
       +iniciarCorreioVoz()
     }
